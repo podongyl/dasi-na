@@ -1,0 +1,10 @@
+/* 
+   파일 위치: C:\dasi-na\css\style.css
+*/
+
+/* Google Fonts에서 불러온 Noto Sans KR 폰트를 웹페이지 전체(body)에 적용 */
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+/* 이후 이 아래에 각 시맨틱 태그(header, nav, section 등)에 대한 디자인 코드를 추가하게 됩니다. */
