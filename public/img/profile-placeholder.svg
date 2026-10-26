@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+  <title id="title">프로필 사진 자리</title>
+  <desc id="desc">profile.jpg 파일을 이 폴더에 넣으면 실제 프로필 사진으로 교체됩니다.</desc>
+  <rect width="720" height="900" fill="#e8e4da"/>
+  <circle cx="360" cy="335" r="132" fill="#9cc9bf"/>
+  <path d="M132 836c18-190 112-292 228-292s210 102 228 292" fill="#1e3150"/>
+  <g fill="#1e3150" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="360" y="92" font-size="26" font-weight="700" letter-spacing="3">PROFILE IMAGE</text>
+    <text x="360" y="870" font-size="20">img/profile.jpg</text>
+  </g>
+</svg>
